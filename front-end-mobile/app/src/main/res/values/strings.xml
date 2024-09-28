@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GerenciadorNotasApp</string>
+    <string name="cadastro_de_notas">Cadastro de notas!</string>
+    <string name="nome">Nome:</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="email">Email:</string>
+    <string name="digite_seu_email">Digite seu Email</string>
+    <string name="idade">Idade:</string>
+    <string name="digite_a_sua_idade">Digite a sua Idade</string>
+    <string name="disciplina">Disciplina:</string>
+    <string name="digite_o_nome_da_disciplina">Digite o nome da Disciplina</string>
+    <string name="nota_1_bimestre">Nota 1° Bimestre:</string>
+    <string name="digite_sua_nota">Digite sua Nota</string>
+    <string name="nota_2_bimestre">Nota 2° Bimestre:</string>
+    <string name="enviar">Enviar</string>
+    <string name="limpar">Limpar</string>
+</resources>
